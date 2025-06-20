@@ -1,0 +1,1274 @@
+[16-Dec-2024 17:34:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 4
+[16-Dec-2024 17:34:43 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:34:43 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[16-Dec-2024 17:35:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 4
+[16-Dec-2024 17:35:19 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[16-Dec-2024 17:35:19 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[16-Dec-2024 17:35:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 4
+[16-Dec-2024 17:35:25 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:35:25 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[16-Dec-2024 17:39:04 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:39:04 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[16-Dec-2024 17:39:19 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:39:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[16-Dec-2024 17:39:19 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[16-Dec-2024 17:39:19 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[16-Dec-2024 17:39:29 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:39:29 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[16-Dec-2024 17:41:14 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:41:14 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[16-Dec-2024 17:41:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[16-Dec-2024 17:41:17 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 03:32:47 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 03:32:47 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 03:32:53 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 03:32:53 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 03:33:10 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 03:33:10 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 03:33:32 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 03:33:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 03:33:33 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 03:33:33 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Dec-2024 03:33:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 03:33:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 03:33:49 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 03:34:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 03:34:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 03:34:02 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 03:34:15 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 03:34:15 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 05:45:04 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 05:45:04 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 09:40:56 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 09:40:56 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 09:40:58 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 09:40:58 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 11:17:03 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:17:03 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 11:27:06 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:27:06 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 11:27:10 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 11:27:10 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 11:28:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 11:28:21 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 11:29:40 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 11:29:40 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 11:29:53 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 11:29:54 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 11:30:13 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Dec-2024 11:30:13 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Dec-2024 11:30:16 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:30:16 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 11:30:35 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:30:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:30:35 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:30:35 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Dec-2024 11:36:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:36:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:36:41 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:36:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:36:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:36:52 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:45:50 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:45:50 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 11:46:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:46:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:46:17 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:46:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Dec-2024 11:46:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:46:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:46:42 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:46:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:46:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 11:46:48 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 11:46:51 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 11:46:51 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 12:04:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:12 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:04:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:29 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:04:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:04:52 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:05:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:18 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:05:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:35 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:05:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:05:47 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:07:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:07:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:07:40 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:08:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:05 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:08:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:19 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 12:08:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 12:08:30 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 15:58:02 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 15:58:02 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 15:58:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 15:58:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 15:58:17 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 15:58:17 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Dec-2024 16:10:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:42 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:10:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:49 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:10:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:10:57 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:11:02 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 16:11:02 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 16:11:05 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 16:11:05 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 16:11:44 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 16:11:44 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 16:11:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:11:44 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:11:44 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Dec-2024 16:12:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:12:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:12:03 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:12:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:12:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Dec-2024 16:12:18 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Dec-2024 16:12:38 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 16:12:38 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 17:55:42 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 17:55:42 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 17:55:48 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 17:55:48 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Dec-2024 17:55:51 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Dec-2024 17:55:51 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:40:48 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:40:48 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:40:48 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:41:18 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:41:18 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:41:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:41:18 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:41:18 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:41:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:41:28 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:41:28 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:41:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:41:34 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:41:34 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:41:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:41:53 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:42:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:42:10 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:42:10 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:43:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:43:21 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:43:21 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:44:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:44:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:44:06 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:44:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:44:40 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:44:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:44:54 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:44:54 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:44:57 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:44:57 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:44:57 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:44:59 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:44:59 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[21-Dec-2024 19:44:59 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[21-Dec-2024 19:46:29 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:46:29 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:46:29 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:47:21 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:47:21 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:47:21 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:47:21 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:48:15 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:48:15 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:48:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:48:15 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:48:15 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:48:19 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:48:19 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:48:19 UTC] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Dec-2024 19:48:35 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 5
+[21-Dec-2024 19:48:35 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:48:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:48:35 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:48:35 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:48:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:48:57 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:50:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:50:01 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:50:01 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:50:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:50:24 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:51:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:51:33 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Dec-2024 19:51:33 UTC] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:52:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Dec-2024 19:52:31 UTC] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 01:27:04 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 01:27:04 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 01:27:04 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 01:27:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 01:27:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Dec-2024 19:57:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 01:27:36 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 01:27:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Dec-2024 19:58:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 01:28:06 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 01:28:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 01:28:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 01:28:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 01:28:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 09:49:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:49:26 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 09:49:26 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 09:49:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:49:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 09:49:47 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[22-Dec-2024 09:51:15 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:51:15 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 09:51:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:51:16 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 09:51:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:51:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 04:21:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 09:51:47 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 09:51:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 04:24:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 09:54:06 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 04:24:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 09:54:46 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 09:54:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 09:54:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 09:54:46 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 09:55:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 04:25:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 09:55:12 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 09:55:12 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 09:55:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 09:55:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 09:55:16 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 10:51:24 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:51:24 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 10:51:24 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 10:51:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:51:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 10:51:53 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 10:56:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:56:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 10:56:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[22-Dec-2024 10:58:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:58:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 10:58:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:58:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 10:58:20 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 10:58:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 05:28:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 10:58:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 10:58:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 05:28:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 10:58:55 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 05:29:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 10:59:17 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 10:59:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 11:03:15 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:03:15 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 11:03:15 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 11:03:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:03:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 11:03:18 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[22-Dec-2024 11:04:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:04:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[22-Dec-2024 11:04:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:04:18 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 11:04:29 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:04:29 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 05:34:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 11:04:29 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 11:04:29 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 05:34:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 11:04:41 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 05:34:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 05:34:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 11:04:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 11:04:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 11:05:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 11:05:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 11:05:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 12:46:38 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/session.php on line 3
+[22-Dec-2024 18:16:38 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:16:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 18:16:38 Asia/Calcutta] PHP Notice:  Undefined variable: title in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 91
+[22-Dec-2024 18:16:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 18:16:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:16:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:16:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:16:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:16:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:16:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:16:52 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:17:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:17:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:17:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:17:10 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:10 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:17:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:17:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:26 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:17:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:37 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:17:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:37 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 18:17:44 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:17:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 12:47:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[22-Dec-2024 18:17:44 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[22-Dec-2024 18:17:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[22-Dec-2024 18:18:42 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 18:18:42 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 18:18:42 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[22-Dec-2024 20:18:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[22-Dec-2024 20:18:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[22-Dec-2024 20:18:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[23-Dec-2024 11:28:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[23-Dec-2024 11:28:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[23-Dec-2024 11:28:08 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[23-Dec-2024 11:28:22 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[23-Dec-2024 11:28:22 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[23-Dec-2024 05:58:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[23-Dec-2024 11:28:22 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[23-Dec-2024 11:28:22 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[23-Dec-2024 06:13:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[23-Dec-2024 11:43:32 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[23-Dec-2024 11:43:32 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[04-Jan-2025 19:07:57 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 19:07:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 19:07:57 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Jan-2025 19:08:06 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 19:08:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Jan-2025 19:08:06 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Jan-2025 21:52:23 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:52:23 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 21:52:23 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Jan-2025 21:54:56 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:54:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 21:54:56 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Jan-2025 21:55:00 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:55:00 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Jan-2025 21:55:00 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Jan-2025 21:55:06 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:55:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 21:55:06 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Jan-2025 21:55:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:55:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 21:55:08 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Jan-2025 21:55:55 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:55:55 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 16:25:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[04-Jan-2025 21:55:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[04-Jan-2025 21:55:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[04-Jan-2025 16:26:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[04-Jan-2025 21:56:16 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[04-Jan-2025 21:56:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[04-Jan-2025 16:26:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[04-Jan-2025 21:56:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[04-Jan-2025 21:56:21 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[04-Jan-2025 21:56:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Jan-2025 21:56:26 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Jan-2025 21:56:26 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 22:52:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 22:52:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 22:52:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 22:52:19 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 22:52:19 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 17:22:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:52:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:52:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 22:52:22 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 22:52:22 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 22:52:22 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 22:52:31 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 22:52:31 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 17:22:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:52:31 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:52:31 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:23:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:53:11 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:53:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:23:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:53:34 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:53:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:23:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:53:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:53:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:24:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:54:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:54:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:24:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:54:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:54:21 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:24:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:54:25 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 22:54:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:25:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 22:55:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 17:36:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:06:06 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:06:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:41:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:11:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:11:13 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:41:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:11:17 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:11:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 17:41:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:11:25 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:11:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 23:11:27 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:11:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:11:27 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:13:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:13:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:13:48 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:14:03 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:14:03 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:14:03 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:14:03 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:14:06 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:14:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Jan-2025 23:14:06 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Jan-2025 23:14:29 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:14:29 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Jan-2025 23:14:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:14:30 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[17-Jan-2025 23:15:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:15:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[17-Jan-2025 23:15:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:15:48 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:16:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:16:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 17:46:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:16:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:16:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 23:16:17 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:16:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:16:17 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:16:20 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:16:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 17:46:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:16:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:16:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 18:00:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:30:10 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:30:14 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:30:14 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:30:14 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:30:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:30:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 18:00:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:30:18 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:30:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[17-Jan-2025 23:30:20 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:30:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 23:30:20 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[17-Jan-2025 23:30:23 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[17-Jan-2025 23:30:23 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[17-Jan-2025 18:00:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[17-Jan-2025 23:30:23 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[17-Jan-2025 23:30:23 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 12:32:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 12:32:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 12:32:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 12:33:10 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 12:33:10 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 07:03:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 12:33:10 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 12:33:10 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:03:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 12:33:24 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 12:33:24 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:03:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 12:33:30 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 12:33:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:03:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 12:33:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 12:33:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 12:33:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 12:33:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 12:33:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 13:12:40 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:12:40 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 13:12:40 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 13:12:57 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:12:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 13:12:57 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:12:57 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 13:13:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:13:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 13:13:18 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 13:13:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:13:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 13:13:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:13:46 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 13:13:51 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:13:51 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 13:13:51 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 13:13:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:13:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 13:13:53 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 13:14:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:14:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 13:14:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:14:34 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 13:14:42 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 13:14:42 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 07:44:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 13:14:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 13:14:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:44:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 13:14:55 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 13:14:55 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:45:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 13:15:36 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 13:15:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 07:45:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 13:15:54 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 13:15:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:34:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:34:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:34:25 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:34:36 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:34:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:34:36 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 15:34:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:34:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:34:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 15:34:50 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:34:50 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:34:50 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:35:15 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:35:15 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:35:15 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 15:35:27 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:35:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:35:27 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:35:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:35:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:35:30 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 15:36:12 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:36:12 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:36:12 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:36:12 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:36:17 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:36:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:36:17 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:36:28 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:36:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 10:06:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:36:28 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:36:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:36:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:36:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 10:06:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:36:35 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:36:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 10:06:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 10:06:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:36:53 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 10:06:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:36:58 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:36:58 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:37:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:37:06 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:37:19 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 10:07:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:37:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:37:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:37:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:37:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:37:34 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 10:08:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 10:08:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:38:57 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 10:10:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:40:15 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 10:10:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:40:30 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:40:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 10:10:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:40:57 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:40:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 10:13:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:43:58 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 10:14:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:44:23 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:44:23 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 10:14:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:44:30 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:44:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:51:03 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:51:03 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:51:03 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 10:21:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 15:51:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 15:51:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 15:51:31 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:51:31 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 15:51:38 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:51:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 15:51:38 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 15:51:45 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 15:51:45 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 15:51:45 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 16:08:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 16:08:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 16:08:07 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 10:38:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 16:08:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 16:08:07 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 16:08:56 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 16:08:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 16:08:56 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 23:57:28 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 23:57:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 23:57:28 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 23:57:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 23:57:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-Jan-2025 23:57:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-Jan-2025 23:58:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 23:58:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 23:58:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 23:58:43 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 23:58:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 23:58:43 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-Jan-2025 23:58:55 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-Jan-2025 23:58:55 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-Jan-2025 18:28:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 23:58:55 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 23:58:55 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 18:29:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 18:29:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 23:59:49 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 18:30:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-Jan-2025 18:30:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 00:00:12 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 18:30:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 00:00:28 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 18:30:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 00:00:50 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-Jan-2025 18:31:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 00:01:02 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 00:01:02 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-Jan-2025 18:31:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 00:01:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 00:01:07 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 11:27:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 11:27:26 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 11:27:26 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 11:27:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 11:27:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 05:57:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 11:27:34 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 11:27:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 11:27:38 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 11:27:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 11:27:38 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 11:27:44 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 11:27:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 05:57:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 11:27:44 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 11:27:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 12:34:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:34:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 12:34:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 12:38:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:38:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 12:38:53 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 12:39:02 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:39:02 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 12:39:02 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[19-Jan-2025 12:39:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:39:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 12:39:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:39:47 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 12:39:56 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 12:39:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 07:09:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 12:39:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 12:39:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 12:51:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 12:51:43 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 12:51:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 07:21:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 12:51:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 12:51:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:24:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:24:37 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:24:37 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 14:26:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:26:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 08:56:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:26:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:26:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 08:57:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 08:57:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:27:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 08:58:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 08:58:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:28:23 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 08:58:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 08:58:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:28:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 08:59:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 08:59:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:29:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 08:59:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 08:59:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:29:33 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:17:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 09:17:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:47:03 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:17:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 09:17:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:47:19 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:17:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 09:17:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:47:36 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:17:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 09:17:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:47:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:22:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:52:45 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:52:50 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:52:50 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:52:50 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 14:52:57 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:52:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:52:57 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:52:57 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 14:53:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:53:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:53:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:53:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 14:53:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 14:53:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 09:23:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:53:16 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:53:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 09:23:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:53:25 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:53:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 09:23:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:53:42 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 09:23:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:53:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:53:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 09:25:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:55:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:55:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 09:26:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:56:45 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:56:45 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:07:07 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/session.php on line 3
+[19-Jan-2025 19:37:07 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:37:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:37:07 Asia/Calcutta] PHP Notice:  Undefined variable: title in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 91
+[19-Jan-2025 19:37:07 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 19:37:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:37:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 19:37:08 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 14:07:14 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/session.php on line 3
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined variable: title in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 91
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 19:37:14 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 19:46:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:46:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 19:46:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 19:46:45 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:46:45 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:16:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:46:45 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:46:45 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:16:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:46:55 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:17:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:47:01 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:47:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:17:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:47:04 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:47:04 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:17:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:17:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:47:18 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:17:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:17:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:47:31 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:18:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:48:47 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:20:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:50:58 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:50:58 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 19:50:59 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:50:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 19:50:59 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 19:54:13 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:54:13 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 19:54:13 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 19:54:29 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 19:54:29 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 14:24:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:54:30 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:54:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:24:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:54:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:25:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:55:15 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 19:55:15 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 14:25:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 14:25:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:55:34 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 14:26:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 19:56:00 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:29:04 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:29:04 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:29:04 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:29:13 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:29:13 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 15:59:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:29:14 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:29:14 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:01:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:31:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:31:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:01:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:31:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:31:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:40:16 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:40:20 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:40:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 21:40:20 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[19-Jan-2025 21:40:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:40:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:40:46 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:48:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:48:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:48:47 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:49:03 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:49:03 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 16:19:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:49:03 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:49:03 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:19:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:19:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:49:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:19:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:49:53 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:49:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:19:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:49:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:49:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:20:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:20:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:50:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:20:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:50:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:50:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:21:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:51:19 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:51:19 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:22:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:52:02 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:23:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:53:53 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:53:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:25:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 21:55:11 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 21:55:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 21:55:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:55:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:55:25 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 21:56:11 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 21:56:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 21:56:11 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:06:08 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:06:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 16:36:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:06:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:06:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 22:13:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:13:38 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:13:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 22:13:43 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[19-Jan-2025 22:16:40 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 22:16:41 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:16:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[19-Jan-2025 22:16:47 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[19-Jan-2025 22:16:49 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:16:49 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 16:46:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:16:57 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:16:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 22:17:00 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:17:00 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:17:00 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 16:47:04 UTC] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/session.php on line 3
+[19-Jan-2025 22:17:04 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:17:04 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:17:04 Asia/Calcutta] PHP Notice:  Undefined variable: title in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 91
+[19-Jan-2025 22:17:04 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 22:17:05 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:17:05 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:17:05 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:17:07 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:17:07 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:17:07 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:22:32 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:22:32 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:22:32 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:22:32 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:22:43 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:22:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 16:52:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:22:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:22:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:53:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:23:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:23:08 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:53:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:23:34 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:23:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:53:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:53:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:23:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:53:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:23:54 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:54:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:54:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:24:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:24:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:24:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 22:24:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[19-Jan-2025 22:24:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[19-Jan-2025 22:24:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[19-Jan-2025 16:54:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:24:19 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:24:19 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:55:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:55:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:25:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:55:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:25:22 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:55:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:25:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:25:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:55:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:25:36 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:25:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:55:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:55:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:25:58 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:56:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:26:14 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 22:26:14 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[19-Jan-2025 16:56:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:56:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:26:25 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[19-Jan-2025 16:57:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 16:57:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[19-Jan-2025 22:27:10 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[20-Jan-2025 00:51:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[20-Jan-2025 00:51:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[20-Jan-2025 00:51:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[20-Jan-2025 22:16:28 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[20-Jan-2025 22:16:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[20-Jan-2025 22:16:28 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[20-Jan-2025 22:16:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[20-Jan-2025 22:16:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[20-Jan-2025 16:46:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[20-Jan-2025 22:16:35 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[20-Jan-2025 22:16:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[20-Jan-2025 16:47:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[20-Jan-2025 22:17:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[20-Jan-2025 16:47:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[20-Jan-2025 22:17:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[20-Jan-2025 22:17:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[20-Jan-2025 22:17:50 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[20-Jan-2025 22:17:50 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[20-Jan-2025 22:17:50 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 10:21:47 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 10:21:47 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 10:21:47 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 10:21:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 10:21:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 10:21:52 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 10:22:05 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 10:22:05 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 04:52:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 10:22:06 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 10:22:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 04:52:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 10:22:20 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 10:22:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 04:52:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 10:22:28 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 10:22:28 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 04:52:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 10:22:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 10:22:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 04:55:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 10:25:59 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 10:25:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 10:26:12 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 10:26:12 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 10:26:12 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 11:26:53 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 11:26:53 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 11:26:53 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 12:39:21 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:39:21 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 12:39:21 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 12:39:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:39:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 12:39:30 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 12:39:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:39:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[21-Jan-2025 12:39:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[21-Jan-2025 12:40:10 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:40:10 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 12:40:10 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 12:40:17 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:40:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[21-Jan-2025 12:40:17 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[21-Jan-2025 12:41:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:41:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[21-Jan-2025 12:41:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:41:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[21-Jan-2025 12:41:20 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:41:20 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[21-Jan-2025 12:41:20 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[21-Jan-2025 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 12:41:22 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Jan-2025 12:41:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Jan-2025 12:41:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Jan-2025 07:11:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 12:41:34 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 12:41:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[21-Jan-2025 07:12:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 12:42:26 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 07:12:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[21-Jan-2025 12:42:57 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[21-Jan-2025 12:42:57 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[11-Feb-2025 16:38:11 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[11-Feb-2025 16:38:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[11-Feb-2025 16:38:11 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[11-Feb-2025 16:39:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[11-Feb-2025 16:39:37 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[11-Feb-2025 16:39:37 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[03-Apr-2025 17:09:16 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:09:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[03-Apr-2025 17:09:16 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[03-Apr-2025 17:12:36 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:12:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[03-Apr-2025 17:12:36 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[03-Apr-2025 17:20:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:20:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[03-Apr-2025 17:20:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[03-Apr-2025 17:20:41 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:20:41 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[03-Apr-2025 17:20:41 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[03-Apr-2025 17:22:23 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:22:23 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[03-Apr-2025 17:22:24 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:22:24 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[03-Apr-2025 17:22:32 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[03-Apr-2025 17:22:32 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[03-Apr-2025 11:52:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[03-Apr-2025 17:22:33 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[03-Apr-2025 17:22:33 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[03-Apr-2025 11:53:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[03-Apr-2025 11:53:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[03-Apr-2025 17:23:12 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[03-Apr-2025 11:53:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[03-Apr-2025 17:23:38 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[04-Apr-2025 22:09:11 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Apr-2025 22:09:11 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Apr-2025 22:09:18 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:18 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Apr-2025 22:09:18 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Apr-2025 22:09:32 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:32 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Apr-2025 22:09:32 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Apr-2025 22:09:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[04-Apr-2025 22:09:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:48 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[04-Apr-2025 22:09:54 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:09:54 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Apr-2025 22:09:54 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Apr-2025 22:10:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:10:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Apr-2025 22:10:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Apr-2025 22:10:42 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:10:42 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Apr-2025 22:10:42 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[04-Apr-2025 22:10:50 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[04-Apr-2025 22:10:50 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[04-Apr-2025 22:10:50 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[10-Apr-2025 22:21:52 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[10-Apr-2025 22:21:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[10-Apr-2025 22:21:52 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[20-Apr-2025 09:58:38 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[20-Apr-2025 09:58:38 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[20-Apr-2025 09:58:38 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Apr-2025 09:17:51 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Apr-2025 09:17:51 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Apr-2025 09:17:51 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[21-Apr-2025 09:18:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[21-Apr-2025 09:18:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[21-Apr-2025 09:18:30 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:00:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:00:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:00:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:00:43 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:00:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:00:44 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:00:44 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:27:51 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:27:51 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:27:51 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:28:01 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:28:01 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:28:01 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:28:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:28:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:28:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:28:46 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:29:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:29:26 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:26 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:29:29 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:29 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:29:29 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:29:37 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:37 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:29:37 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:29:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:29:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:29:59 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:29:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 11:29:59 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 11:30:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:30:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:30:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:30:12 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:30:12 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:30:12 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 11:30:22 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:30:22 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 11:30:22 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 11:30:22 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 12:04:27 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:04:27 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 12:04:27 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 12:04:31 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:04:31 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 12:04:31 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 12:04:39 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:04:39 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 12:04:39 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 12:05:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:30 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 12:05:30 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:30 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 12:05:34 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:34 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[13-May-2025 12:05:34 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[13-May-2025 12:05:36 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:36 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 12:05:36 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 12:05:40 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:40 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 12:05:40 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[13-May-2025 12:05:59 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[13-May-2025 12:05:59 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[13-May-2025 12:05:59 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:28:11 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:28:11 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:28:17 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:17 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-May-2025 17:28:17 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-May-2025 17:28:25 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:28:25 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:28:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:35 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:28:35 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:35 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:28:45 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:45 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:28:46 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:46 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:28:49 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:28:49 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-May-2025 17:28:49 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-May-2025 17:30:02 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:30:02 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-May-2025 17:30:02 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:30:02 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-May-2025 17:30:09 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:30:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 27
+[18-May-2025 17:30:09 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/registration.php on line 82
+[18-May-2025 17:30:11 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:30:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:30:11 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
+[18-May-2025 17:31:48 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:31:48 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 12:01:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-May-2025 17:31:49 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-May-2025 17:31:49 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-May-2025 12:02:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-May-2025 17:32:40 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-May-2025 17:32:40 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-May-2025 12:05:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-May-2025 17:35:55 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-May-2025 12:07:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 3
+[18-May-2025 17:37:46 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 5
+[18-May-2025 17:37:46 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/dashboard.php on line 93
+[18-May-2025 17:38:03 Asia/Calcutta] PHP Notice:  Undefined index: user_id in /home/laml3f9bcmor/public_html/Minor/login/include/system_connect.php on line 7
+[18-May-2025 17:38:03 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 28
+[18-May-2025 17:38:03 Asia/Calcutta] PHP Notice:  Undefined index: btn in /home/laml3f9bcmor/public_html/Minor/login/index.php on line 57
