@@ -1,5 +1,5 @@
 <?php
-$mysqli=new mysqli("localhost","thedeltas_usrmajor","}GF5;^7Ex(ja.Dw1","thedeltas_major");
+$mysqli=new mysqli("localhost","root","","major");
 
 $file = fopen("DSM.csv","r");
 $i=0;
