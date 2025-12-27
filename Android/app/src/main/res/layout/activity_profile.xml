@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background Image -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background" />
+
+    <!-- Dark Overlay -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000" />
+
+    <!-- Foreground Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/foreground_card_bg"
+            android:padding="32dp"
+            android:elevation="6dp"
+            android:layout_margin="16dp"
+            android:gravity="center_horizontal">
+
+            <!-- Profile Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your Profile"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginBottom="24dp" />
+
+            <!-- User Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="User Details"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:layout_marginBottom="12dp" />
+
+            <!-- User Name -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="User Name"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter full name"
+                android:inputType="textPersonName"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Email -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_user_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email (read-only)"
+                android:enabled="false"
+                android:inputType="textEmailAddress"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Mobile -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mobile Number"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_user_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter mobile number"
+                android:inputType="phone"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Child Details -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Child Details"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Child Name -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Child Name"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_child_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter child's name"
+                android:inputType="textPersonName"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Child Age -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Child Age (in months)"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_child_age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter age in months"
+                android:inputType="number"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Child Gender -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Child Gender"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_child_gender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Enter child's gender"
+                android:inputType="text"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="12dp" />
+
+            <!-- Relation to Child -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Your Relation to Child"
+                android:textColor="#000000" />
+            <EditText
+                android:id="@+id/et_child_relation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="e.g., Parent, Guardian"
+                android:inputType="text"
+                android:backgroundTint="#333333"
+                android:padding="12dp"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Update Button -->
+            <Button
+                android:id="@+id/btn_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Update Profile"
+                android:backgroundTint="#03A9F4"
+                android:textColor="#FFFFFF"
+                android:padding="12dp"
+                android:textAllCaps="false"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

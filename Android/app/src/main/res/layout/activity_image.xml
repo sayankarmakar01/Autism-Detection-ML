@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Top App Bar -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginTop="1dp"
+            android:background="#ab9309"
+            android:padding="12dp">
+
+            <ImageView
+                android:id="@+id/backButton"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_alignParentStart="true"
+                android:src="@drawable/back"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/titleText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Image Test"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp"
+                android:textStyle="bold|italic" />
+
+            <ImageView
+                android:id="@+id/logoutIcon"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/logoutimage"
+                android:tint="#FFFFFF" />
+        </RelativeLayout>
+
+        <!-- 🏏 BAT Image -->
+        <ImageView
+            android:id="@+id/imageBat"
+            android:layout_width="match_parent"
+            android:layout_height="142dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg1"
+            android:contentDescription="BAT"
+            android:scaleType="centerInside"
+            android:src="@drawable/batimage" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/buttonClick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="STICK"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BAT"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WICKET"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <!-- 🐱 CAT Image -->
+        <ImageView
+            android:id="@+id/imageCat"
+            android:layout_width="match_parent"
+            android:layout_height="164dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg2"
+            android:contentDescription="CAT"
+            android:src="@drawable/catimage"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/buttonClick3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CAT"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TIGER"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DOG"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <!-- ⚽ BALL Image -->
+        <ImageView
+            android:id="@+id/imageBall"
+            android:layout_width="match_parent"
+            android:layout_height="144dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/bg3"
+            android:contentDescription="BALL"
+            android:src="@drawable/ballimage"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/buttonClick6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MANGO"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="APPLE"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/buttonClick8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BALL"
+                android:layout_marginStart="16dp"
+                android:backgroundTint="#6200EE"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <!-- Prompt -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="#ab9309"
+            android:padding="12dp"
+            android:text="Please click correct answer"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <!-- ✅ Submit Button -->
+        <Button
+            android:id="@+id/buttonSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Submit"
+            android:backgroundTint="#4CAF50"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">cognisite</string>
+        <string name="select_relation">Select Relation</string>
+        <string-array name="relation_array">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Guardian</item>
+        </string-array>
+
+
+
+</resources>

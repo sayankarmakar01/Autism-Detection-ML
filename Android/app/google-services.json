@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754766218523",
+    "project_id": "cognisight-abd03",
+    "storage_bucket": "cognisight-abd03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754766218523:android:9068981b58350e9f1fffbe",
+        "android_client_info": {
+          "package_name": "com.example.cognisite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYpsrhGSt0PUdccqZQ3fFXjmN1LAW_Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

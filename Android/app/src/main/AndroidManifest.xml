@@ -1,0 +1,53 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cognisite">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Cognisite"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.Cognisite"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".LoginActivity" />
+
+
+
+
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ForgetPasswordActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".QuestionnaireActivity" />
+        <activity android:name=".VoiceMatchActivity" />
+        <activity android:name=".DSMActivity" />
+        <activity android:name=".ChildDetailActivity" />
+        <activity android:name=".AutismQuestionActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".ImageActivity" />
+        <activity android:name=".ProfileActivity" />
+
+
+
+
+    </application>
+</manifest>

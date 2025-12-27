@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/text_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Advanced DSM-V Based Questions"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingBottom="16dp"
+            android:textColor="#000000"/>
+
+        <!-- Question 1 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Does the child lack normal normal back and fourth conversation?"
+            android:textStyle="bold"
+            android:paddingTop="8dp" />
+        <RadioGroup
+            android:id="@+id/dsmquestion1_radiogroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 2 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child fail to initiate social interactions?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion2_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 3 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child lacks facial expressione /non-verbal Communication?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion3_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 4 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child lack contexts? adjusting to suit various social contexts?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion4_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 5 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child use stereotyped/repetitive motor movemente (use of same toys/cors)?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion5_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 6 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child restricts himself/herself to unusual objects all the time (has excesive interest)?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion6_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 7 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child has some genetic connection with this disorder?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion7_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 8 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child has any other mental/physical disorder (eg. epilepsy, 7/ down syndrome)?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion8_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 9 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child had other medical conditions during his/her birth (very low birth weight etc.)?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion9_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Question 10 -->
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Does the child has anxiety, a ty, depression, self-injung. de feeding or sleep disorders issues?" android:textStyle="bold" android:paddingTop="8dp" />
+        <RadioGroup android:id="@+id/dsmquestion10_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal">
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+            <RadioButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+        </RadioGroup>
+
+        <!-- Submit Button -->
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

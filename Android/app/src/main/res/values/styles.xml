@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base App Theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary branding color -->
+        <item name="colorPrimary">#ab9309</item>
+        <item name="colorPrimaryDark">#8c7700</item>
+        <item name="colorAccent">#b2f1f7</item>
+        <item name="android:statusBarColor">#8c7700</item>
+        <item name="android:windowBackground">@drawable/black</item>
+    </style>
+
+    <!-- Text style for section titles like 'Image Test' -->
+    <style name="TextTitle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="QuizButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:backgroundTint">#b2f1f7</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Footer style -->
+    <style name="FooterText">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:background">#ab9309</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+</resources>

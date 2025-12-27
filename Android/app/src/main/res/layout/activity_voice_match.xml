@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#FAFAFA"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textViewExpected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kindly say:"
+        android:textSize="20sp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/textViewExpectedText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="i want to play ball"
+        android:textSize="22sp"
+        android:textColor="#00796B"
+        android:textStyle="italic"
+        android:layout_marginBottom="32dp"
+        android:layout_marginTop="4dp"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btnStartVoice"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Start Voice Input"
+        android:backgroundTint="#00796B"
+        android:textColor="#FFFFFF"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:padding="14dp"
+        android:elevation="4dp" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your voice result will appear here"
+        android:textSize="18sp"
+        android:textColor="#212121"
+        android:paddingTop="32dp"
+        android:paddingBottom="12dp"
+        android:gravity="center"/>
+
+</LinearLayout>
